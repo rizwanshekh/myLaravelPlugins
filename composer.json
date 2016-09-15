@@ -1,0 +1,14 @@
+{
+    "name": "rizwan/laraveldaily",
+    "description": "Plugin to learn",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rizwan",
+            "email": "rizwan@hirarky.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
