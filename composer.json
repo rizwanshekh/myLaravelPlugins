@@ -10,7 +10,7 @@
         }
     ],
     "autoload": {
-  		"classmap": ["timezone"],
+  		"classmap": ["timezone"]
   	},
     "minimum-stability": "dev",
     "require": {
